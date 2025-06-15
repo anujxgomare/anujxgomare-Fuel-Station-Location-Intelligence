@@ -1,2 +1,2 @@
-# Fuel-Station-Location-Intelligence
+# Future Fuel Station Placement in the US
 Location intelligence project using geospatial data to optimize placement of alternative fuel stations (EV, CNG, LPG) in the U.S. Involves data cleaning, clustering, visualization, and predictive modeling using Python.
